@@ -5,11 +5,9 @@
   <h1 align="center">Guia do Desenvolvedor Full-Stack</h1>
 </p>
 
-## :tools: Guia em desenvolvimento!!!
+#### Guia em construção: este repositórios ainda está em fase de desenvolvimento, em breve ele será disponibilizado para que possam realizar o uso dele.
 
-Este repositórios ainda está em fase de desenvolvimento, em breve ele será disponibilizado para que possam realizar o uso dele.
-
-Atenciosamente, equipe Guia Dev Brasil!
+<b> Atenciosamente, equipe Guia Dev Brasil! </b>
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
