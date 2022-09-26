@@ -5,11 +5,9 @@
   <h1 align="center">Guia do Desenvolvedor Full-Stack</h1>
 </p>
 
-### ⚠️ Aviso importante 
+## ⚠️ Aviso importante 
 
 Guia em construção: esse repositório ainda está em fase de desenvolvimento, em breve ele será disponibilizado para que possam realizar o uso dele, a equipe do Guia Dev Brasil está trabalhando para entregar um conteúdo de qualidade e acessível para todas as pessoas, contamos com seu apoio para a divulgação desse repositório ao disponibilizar ele para a comunidade.
-
-<b> Atenciosamente, equipe Guia Dev Brasil! </b>
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais novidades: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -18,3 +16,6 @@ Guia em construção: esse repositório ainda está em fase de desenvolvimento, 
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
 </sub>
+
+![Ferramentas e Extensões](./images/guia.jpg)
+
