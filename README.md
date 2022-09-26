@@ -5,8 +5,6 @@
   <h1 align="center">Guia do Desenvolvedor Full-Stack</h1>
 </p>
 
-## ⚠️ Aviso importante 
-
 Guia em construção: esse repositório ainda está em fase de desenvolvimento, em breve ele será disponibilizado para que possam realizar o uso dele, a equipe do Guia Dev Brasil está trabalhando para entregar um conteúdo de qualidade e acessível para todas as pessoas, contamos com seu apoio para a divulgação desse repositório ao disponibilizar ele para a comunidade.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais novidades: </strong> <br>
